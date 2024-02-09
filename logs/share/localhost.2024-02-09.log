@@ -1,0 +1,84 @@
+09-Feb-2024 12:26:13.755 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 12:26:13.758 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 12:26:16.817 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:26:16.817 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:26:16.878 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 12:26:16.889 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 12:32:57.395 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 12:32:57.398 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 12:33:00.545 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:33:00.545 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:33:00.587 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 12:33:00.597 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 12:42:27.234 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 12:42:27.237 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 12:42:30.326 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:42:30.327 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:42:30.380 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 12:42:30.392 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 12:45:10.590 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 12:45:10.593 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 12:45:13.580 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:45:13.580 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:45:13.618 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 12:45:13.626 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 12:54:44.748 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 12:54:44.754 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 12:54:47.894 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:54:47.894 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 12:54:47.951 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 12:54:47.962 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 13:02:15.133 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 13:02:15.137 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 13:02:18.676 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 13:02:18.676 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 13:02:18.740 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 13:02:18.754 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 13:46:17.335 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 13:46:17.338 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 13:46:20.459 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 13:46:20.459 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 13:46:20.518 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 13:46:20.526 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 13:57:09.734 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 13:57:09.737 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 13:57:12.809 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 13:57:12.809 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 13:57:12.848 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 13:57:12.857 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 14:03:39.979 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 14:03:39.983 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 14:03:43.143 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:03:43.143 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:03:43.187 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 14:03:43.196 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 14:05:26.540 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 14:05:26.545 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 14:05:29.796 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:05:29.796 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:05:29.843 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 14:05:29.851 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 14:10:47.583 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 14:10:47.587 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 14:10:50.663 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:10:50.664 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:10:50.701 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 14:10:50.710 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 14:11:48.741 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 14:11:48.744 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 14:11:51.752 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:11:51.752 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:11:51.808 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 14:11:51.820 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 14:55:42.052 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 14:55:42.055 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 14:55:45.114 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:55:45.114 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 14:55:45.150 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 14:55:45.157 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
+09-Feb-2024 15:09:48.949 INFO [main] org.apache.catalina.core.ApplicationContext.log No Spring WebApplicationInitializer types detected on classpath
+09-Feb-2024 15:09:48.952 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+09-Feb-2024 15:09:51.954 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/WEB-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 15:09:51.954 SEVERE [main] org.apache.tomcat.util.descriptor.web.SecurityConstraint.findUncoveredHttpMethods For security constraints with URL pattern [/res/META-INF/*] only the HTTP methods [GET] are covered. All other methods are uncovered.
+09-Feb-2024 15:09:51.999 INFO [main] org.apache.catalina.core.ApplicationContext.log org.tuckey.web.filters.urlrewrite.UrlRewriteFilter INFO: loaded (conf ok)
+09-Feb-2024 15:09:52.006 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'Spring Surf Dispatcher Servlet'
